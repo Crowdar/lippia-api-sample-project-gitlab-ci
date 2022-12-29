@@ -52,4 +52,7 @@ $ mvn clean test
 ### Los reportes son generados en una carpeta llamada **Targets**, que sera generada una vez que la ejecucion de las pruebas haya finalizado.
 * El artifact se encuentra para descargar en CI/CD --> Pipelines, dentro del pipeline finalizado, en la parte derecha de la pagina.
 
+![artifact](docs/images/artifact-gitlab.png)
+
+
 **para mas informacion ver [documentacion lippia.](https://github.com/Crowdar/lippia-web-sample-project#getting-started "documentacion lippia.")**
