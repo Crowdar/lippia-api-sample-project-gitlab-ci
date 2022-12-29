@@ -1,5 +1,4 @@
 # Pipeline Sample API
-<<<<<<< README.md
  Es un proyecto que tiene como finalidad automatizar el testeo del codigo ingresado al repositorio, utilizando el framework Lippia.
 
 ## Consideraciones
